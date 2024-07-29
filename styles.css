@@ -1,0 +1,26 @@
+* {
+    font-family: "Verdana", "Geneva", "Tahoma", "sans-serif";
+}
+
+h1 {
+    color: orange;
+}
+
+.main-title {
+    color: green;
+    background-color: bisque;
+}
+
+h2 {
+    color: rgb(0, 191, 255);
+    background-color: black;
+}
+
+.ingredients {
+    background-color: burlywood;
+}
+
+.steps li {
+    font-weight: 800;
+    font-family:"Courier New", "Courier", "monospace"
+}
