@@ -7,8 +7,10 @@ h1 {
 }
 
 .main-title {
-    color: green;
-    background-color: bisque;
+    color: white;
+    background-color: #0cb167;
+    text-align: center;
+    padding: 50px;
 }
 
 h2 {
@@ -23,4 +25,9 @@ h2 {
 .steps li {
     font-weight: 800;
     font-family:"Courier New", "Courier", "monospace"
+}
+
+.recipes-list li {
+    list-style-type: circle;
+    margin: 15px;
 }
